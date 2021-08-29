@@ -26,17 +26,19 @@
     h1{
         margin-top: 30px;
     }
-    .section-1::after{
-        content:"";
+    .section-1{
+        /* content:"";
         display: block;
         height:50rem;
-        width:80rem;
+        width:80rem; */
         background:url(../svgs/prism.svg) no-repeat;
-        background-size: 100%;
-        position: absolute;
+        /* background-size: 100%;
+        position: absolute; 
         top:-5rem;
-        right:0rem;
+        right:0rem; */
         z-index: -1;
+        
+        
     } 
 }
 /*@media(max-width: 512px)
