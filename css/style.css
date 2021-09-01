@@ -291,3 +291,8 @@
     margin-left: 25px;
     text-align: center;
   }
+
+.card-img-top
+{
+  border-bottom: 3px solid black;
+}
